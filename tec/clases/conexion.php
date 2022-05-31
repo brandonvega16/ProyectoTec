@@ -5,7 +5,7 @@ class conectar
 {
     private $servidor = "localhost";
     private $usuario = "root";
-    private $password = "Kon.2022*";
+    private $password = "DanielLara9.9";
     private $bd = "opmdb";
 
     public function conexion ()
